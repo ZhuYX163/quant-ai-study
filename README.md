@@ -85,8 +85,8 @@ often warrant deeper investigation.
 ---
 
 ## Project Structure
+```
 quant-ai-project/
-
 ├── data/
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb      # Data download and EDA
@@ -107,7 +107,7 @@ quant-ai-project/
 │   ├── 08_era3_performance.png
 │   └── 11_final_comparison.png
 └── README.md
-
+```
 ## How to Reproduce
 
 ```bash
