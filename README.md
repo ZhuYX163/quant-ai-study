@@ -93,7 +93,8 @@ quant-ai-project/
 │   ├── 02_era1_rule_based.ipynb       # MA Crossover and RSI strategies
 │   ├── 03_era2_ml.ipynb               # Random Forest with feature engineering
 │   ├── 04_era3_transformer.ipynb      # Transformer (incl. naive trap discovery)
-│   └── 05_final_comparison.ipynb      # Full comparison and visualization
+│   ├── 05_final_comparison.ipynb      # Full comparison and visualization
+│   └── 06_event_analysis.ipynb        # Model behavior during key market events
 ├── results/
 │   ├── 01_price_performance.png
 │   ├── 02_return_distributions.png
@@ -105,7 +106,11 @@ quant-ai-project/
 │   ├── 06c_loss_comparison.png
 │   ├── 07_transformer_prediction.png
 │   ├── 08_era3_performance.png
-│   └── 11_final_comparison.png
+│   ├── 11_final_comparison.png
+│   ├── 12_event_covid_crash.png
+│   ├── 13_event_covid_recovery.png
+│   ├── 14_event_rate_hike.png
+│   └── 15_event_summary.png
 └── README.md
 ```
 ## How to Reproduce
